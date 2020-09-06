@@ -1,2 +1,2 @@
-# app_new
+# app_news
 Aplicativo para exibir noticias
